@@ -1,0 +1,15 @@
+C:\Users\Patrick\source\repos\Trainer-GTA-San-Andreas\Trainer-GTA-San-Andreas\bin\x64\Debug\Trainer-GTA-San-Andreas.exe.config
+C:\Users\Patrick\source\repos\Trainer-GTA-San-Andreas\Trainer-GTA-San-Andreas\bin\x64\Debug\Trainer-GTA-San-Andreas.exe
+C:\Users\Patrick\source\repos\Trainer-GTA-San-Andreas\Trainer-GTA-San-Andreas\bin\x64\Debug\Trainer-GTA-San-Andreas.pdb
+C:\Users\Patrick\source\repos\Trainer-GTA-San-Andreas\Trainer-GTA-San-Andreas\bin\x64\Debug\Memory.dll
+C:\Users\Patrick\source\repos\Trainer-GTA-San-Andreas\Trainer-GTA-San-Andreas\bin\x64\Debug\System.Security.Principal.Windows.dll
+C:\Users\Patrick\source\repos\Trainer-GTA-San-Andreas\Trainer-GTA-San-Andreas\bin\x64\Debug\Memory.xml
+C:\Users\Patrick\source\repos\Trainer-GTA-San-Andreas\Trainer-GTA-San-Andreas\bin\x64\Debug\System.Security.Principal.Windows.xml
+C:\Users\Patrick\source\repos\Trainer-GTA-San-Andreas\Trainer-GTA-San-Andreas\obj\x64\Debug\Trainer-GTA-San-Andreas.csprojAssemblyReference.cache
+C:\Users\Patrick\source\repos\Trainer-GTA-San-Andreas\Trainer-GTA-San-Andreas\obj\x64\Debug\Trainer_GTA_San_Andreas.Properties.Resources.resources
+C:\Users\Patrick\source\repos\Trainer-GTA-San-Andreas\Trainer-GTA-San-Andreas\obj\x64\Debug\Trainer_GTA_San_Andreas.Trainer.resources
+C:\Users\Patrick\source\repos\Trainer-GTA-San-Andreas\Trainer-GTA-San-Andreas\obj\x64\Debug\Trainer-GTA-San-Andreas.csproj.GenerateResource.cache
+C:\Users\Patrick\source\repos\Trainer-GTA-San-Andreas\Trainer-GTA-San-Andreas\obj\x64\Debug\Trainer-GTA-San-Andreas.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\Trainer-GTA-San-Andreas\Trainer-GTA-San-Andreas\obj\x64\Debug\Trainer-GTA-San-Andreas.csproj.CopyComplete
+C:\Users\Patrick\source\repos\Trainer-GTA-San-Andreas\Trainer-GTA-San-Andreas\obj\x64\Debug\Trainer-GTA-San-Andreas.exe
+C:\Users\Patrick\source\repos\Trainer-GTA-San-Andreas\Trainer-GTA-San-Andreas\obj\x64\Debug\Trainer-GTA-San-Andreas.pdb

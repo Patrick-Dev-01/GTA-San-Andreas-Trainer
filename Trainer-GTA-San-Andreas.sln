@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trainer-GTA-San-Andreas", "Trainer-GTA-San-Andreas\Trainer-GTA-San-Andreas.csproj", "{2D32F335-251A-40A4-8384-2873A5962BB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D32F335-251A-40A4-8384-2873A5962BB6}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{2D32F335-251A-40A4-8384-2873A5962BB6}.Debug|Any CPU.Build.0 = Debug|x64
+		{2D32F335-251A-40A4-8384-2873A5962BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D32F335-251A-40A4-8384-2873A5962BB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CE87451-3A30-48AE-AF63-7396F35918A1}
+	EndGlobalSection
+EndGlobal
