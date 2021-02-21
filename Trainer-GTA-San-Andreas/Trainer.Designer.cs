@@ -38,6 +38,7 @@ namespace Trainer_GTA_San_Andreas
             this.ArmorRecoveryButton = new System.Windows.Forms.Button();
             this.recoveryHeatlhButton = new System.Windows.Forms.Button();
             this.hitmanLevelsCheckbox = new System.Windows.Forms.CheckBox();
+            this.jumpHackCheckbox = new System.Windows.Forms.CheckBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -94,22 +95,28 @@ namespace Trainer_GTA_San_Andreas
             // 
             // ArmorRecoveryButton
             // 
-            this.ArmorRecoveryButton.Location = new System.Drawing.Point(669, 163);
+            this.ArmorRecoveryButton.BackColor = System.Drawing.SystemColors.HotTrack;
+            this.ArmorRecoveryButton.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.ArmorRecoveryButton.ForeColor = System.Drawing.SystemColors.ButtonFace;
+            this.ArmorRecoveryButton.Location = new System.Drawing.Point(659, 190);
             this.ArmorRecoveryButton.Name = "ArmorRecoveryButton";
-            this.ArmorRecoveryButton.Size = new System.Drawing.Size(101, 31);
+            this.ArmorRecoveryButton.Size = new System.Drawing.Size(101, 39);
             this.ArmorRecoveryButton.TabIndex = 7;
             this.ArmorRecoveryButton.Text = "Armor";
-            this.ArmorRecoveryButton.UseVisualStyleBackColor = true;
+            this.ArmorRecoveryButton.UseVisualStyleBackColor = false;
             this.ArmorRecoveryButton.Click += new System.EventHandler(this.ArmorRecoveryButton_Click);
             // 
             // recoveryHeatlhButton
             // 
-            this.recoveryHeatlhButton.Location = new System.Drawing.Point(432, 163);
+            this.recoveryHeatlhButton.BackColor = System.Drawing.Color.Red;
+            this.recoveryHeatlhButton.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.recoveryHeatlhButton.ForeColor = System.Drawing.SystemColors.ButtonFace;
+            this.recoveryHeatlhButton.Location = new System.Drawing.Point(432, 190);
             this.recoveryHeatlhButton.Name = "recoveryHeatlhButton";
-            this.recoveryHeatlhButton.Size = new System.Drawing.Size(96, 31);
+            this.recoveryHeatlhButton.Size = new System.Drawing.Size(96, 39);
             this.recoveryHeatlhButton.TabIndex = 8;
             this.recoveryHeatlhButton.Text = "Heatlh";
-            this.recoveryHeatlhButton.UseVisualStyleBackColor = true;
+            this.recoveryHeatlhButton.UseVisualStyleBackColor = false;
             this.recoveryHeatlhButton.Click += new System.EventHandler(this.recoveryHeatlhButton_Click);
             // 
             // hitmanLevelsCheckbox
@@ -117,17 +124,28 @@ namespace Trainer_GTA_San_Andreas
             this.hitmanLevelsCheckbox.AutoSize = true;
             this.hitmanLevelsCheckbox.Location = new System.Drawing.Point(432, 112);
             this.hitmanLevelsCheckbox.Name = "hitmanLevelsCheckbox";
-            this.hitmanLevelsCheckbox.Size = new System.Drawing.Size(133, 21);
+            this.hitmanLevelsCheckbox.Size = new System.Drawing.Size(190, 21);
             this.hitmanLevelsCheckbox.TabIndex = 9;
-            this.hitmanLevelsCheckbox.Text = "All Hitman levels";
+            this.hitmanLevelsCheckbox.Text = "All Weapons Hitman level";
             this.hitmanLevelsCheckbox.UseVisualStyleBackColor = true;
             this.hitmanLevelsCheckbox.CheckedChanged += new System.EventHandler(this.hitmanLevelsCheckbox_CheckedChanged);
+            // 
+            // jumpHackCheckbox
+            // 
+            this.jumpHackCheckbox.AutoSize = true;
+            this.jumpHackCheckbox.Location = new System.Drawing.Point(432, 140);
+            this.jumpHackCheckbox.Name = "jumpHackCheckbox";
+            this.jumpHackCheckbox.Size = new System.Drawing.Size(100, 21);
+            this.jumpHackCheckbox.TabIndex = 10;
+            this.jumpHackCheckbox.Text = "Jump Hack";
+            this.jumpHackCheckbox.UseVisualStyleBackColor = true;
             // 
             // Trainer
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(782, 469);
+            this.Controls.Add(this.jumpHackCheckbox);
             this.Controls.Add(this.hitmanLevelsCheckbox);
             this.Controls.Add(this.recoveryHeatlhButton);
             this.Controls.Add(this.ArmorRecoveryButton);
@@ -155,6 +173,7 @@ namespace Trainer_GTA_San_Andreas
         private System.Windows.Forms.Button ArmorRecoveryButton;
         private System.Windows.Forms.Button recoveryHeatlhButton;
         private System.Windows.Forms.CheckBox hitmanLevelsCheckbox;
+        private System.Windows.Forms.CheckBox jumpHackCheckbox;
     }
 }
 
